@@ -1,2 +1,0 @@
-# EventManagerUI
-Created with CodeSandbox
